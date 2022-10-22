@@ -1,0 +1,60 @@
+Uri: https://prazdniki-million.ru/
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\index.htm
+Content Type: text/html
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page16809169.min.css?t=1662921092
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page16809169.min.css
+Content Type: text/css
+
+Uri: https://prazdniki-million.ru/geroi
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\geroi.html
+Content Type: text/html
+
+Uri: https://prazdniki-million.ru/razvlecheniya
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\razvlecheniya.html
+Content Type: text/html
+
+Uri: https://prazdniki-million.ru/gallary
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\gallary.html
+Content Type: text/html
+
+Uri: https://prazdniki-million.ru/contacts
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\contacts.html
+Content Type: text/html
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page16809169.min.js?t=1662921092
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page16809169.min.js
+Content Type: application/javascript
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page16891887.min.css?t=1654865324
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page16891887.min.css
+Content Type: text/css
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page16891887.min.js?t=1654865324
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page16891887.min.js
+Content Type: application/javascript
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page16891860.min.css?t=1654865324
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page16891860.min.css
+Content Type: text/css
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page16891860.min.js?t=1654865324
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page16891860.min.js
+Content Type: application/javascript
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page17144412.min.css?t=1654865324
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page17144412.min.css
+Content Type: text/css
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page17144412.min.js?t=1654865324
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page17144412.min.js
+Content Type: application/javascript
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page17144435.min.css?t=1654865324
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page17144435.min.css
+Content Type: text/css
+
+Uri: https://prazdniki-million.ru/tilda-blocks-page17144435.min.js?t=1654865324
+File Name: c:\Downloaded Web Sites\prazdniki-million.ru\tilda-blocks-page17144435.min.js
+Content Type: application/javascript
+
